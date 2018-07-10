@@ -1,40 +1,6 @@
+# https://app.codesignal.com/arcade/intro/level-2/2mxbGwLzvkTCKAJMG
+
 def almostIncreasingSequence(sequence):
-	# c = 0
-	# for i in range(len(sequence) - 1):
-	# 	if sequence[i] >= sequence[i + 1]:
-	# 		c += 1
-	# return c < 2
-
-	# miss = 0
-	# # while True:
-	# n = 0
-	# for i in range(len(sequence) - 1):
-	# 	if sequence[i] >= sequence[i + 1]:
-	# 		# print('pop', sequence[i], 'at', i)
-	# 		try:
-	# 			valid = sequence[i - 1] < sequence[i + 1]
-	# 		except IndexError:
-	# 			valid == True
-	# 		if valid:
-	# 			del sequence[i]
-	# 			print('del', sequence[i], 'at', i)
-	# 		else:
-	# 			try:
-	# 				print('del', sequence[i + 1], 'at', i + 1)
-	# 				del sequence[i + 1]
-	# 			except IndexError:
-	# 				pass
-
-	# 		# miss += 1
-	# 		break
-	# 		print('sequence=',sequence)
-	# r_seq = list(reversed(sequence))
-	# print('r_seq=',r_seq)	
-	# for i in range(len(r_seq) - 1):
-	# 	if r_seq[i] <= r_seq[i + 1]:
-	# 		return False
-	# return True
-
 	## Find our first potential trouble.
 	start_i = 0
 	# Iterate sequence til we find the index of the first element out of order. Initial solution skipped
