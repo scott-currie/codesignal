@@ -1,0 +1,6 @@
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\bin\Debug\boxBlur.exe.config
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\obj\Debug\boxBlur.csprojResolveAssemblyReference.cache
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\bin\Debug\boxBlur.exe
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\bin\Debug\boxBlur.pdb
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\obj\Debug\boxBlur.exe
+C:\Users\scurrie\github\codefights\c_sharp\boxBlur\obj\Debug\boxBlur.pdb

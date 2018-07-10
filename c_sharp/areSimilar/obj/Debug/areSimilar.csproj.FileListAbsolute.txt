@@ -1,0 +1,6 @@
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\bin\Debug\areSimilar.exe.config
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\bin\Debug\areSimilar.exe
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\bin\Debug\areSimilar.pdb
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\obj\Debug\areSimilar.csprojResolveAssemblyReference.cache
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\obj\Debug\areSimilar.exe
+C:\Users\scurrie\github\codefights\c_sharp\areSimilar\obj\Debug\areSimilar.pdb
