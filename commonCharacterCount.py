@@ -1,3 +1,5 @@
+# https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32
+
 def commonCharacterCount(s1, s2):
     s1d = {}
     s2d = {}
