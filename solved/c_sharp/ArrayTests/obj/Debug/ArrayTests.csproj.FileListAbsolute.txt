@@ -1,0 +1,6 @@
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\bin\Debug\ArrayTests.exe.config
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\bin\Debug\ArrayTests.exe
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\bin\Debug\ArrayTests.pdb
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\obj\Debug\ArrayTests.exe
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\obj\Debug\ArrayTests.pdb
+C:\Users\scurrie\github\codefights\c_sharp\ArrayTests\obj\Debug\ArrayTests.csprojResolveAssemblyReference.cache

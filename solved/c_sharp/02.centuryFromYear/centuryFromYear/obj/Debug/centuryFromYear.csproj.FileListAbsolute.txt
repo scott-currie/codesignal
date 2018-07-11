@@ -1,0 +1,5 @@
+C:\Users\scurrie\github\codefights\c#\02.centuryFromYear\centuryFromYear\bin\Debug\centuryFromYear.exe.config
+C:\Users\scurrie\github\codefights\c#\02.centuryFromYear\centuryFromYear\bin\Debug\centuryFromYear.exe
+C:\Users\scurrie\github\codefights\c#\02.centuryFromYear\centuryFromYear\bin\Debug\centuryFromYear.pdb
+C:\Users\scurrie\github\codefights\c#\02.centuryFromYear\centuryFromYear\obj\Debug\centuryFromYear.exe
+C:\Users\scurrie\github\codefights\c#\02.centuryFromYear\centuryFromYear\obj\Debug\centuryFromYear.pdb
