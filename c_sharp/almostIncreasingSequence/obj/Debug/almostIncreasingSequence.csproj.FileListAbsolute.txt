@@ -1,2 +1,0 @@
-C:\Users\scurrie\github\codefights\c_sharp\almostIncreasingSequence\bin\Debug\almostIncreasingSequence.exe.config
-C:\Users\scurrie\github\codefights\c_sharp\almostIncreasingSequence\obj\Debug\almostIncreasingSequence.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe.config
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.pdb
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.exe
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.pdb
-C:\Users\scurrie\github\codefights\c#\03.CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.csprojResolveAssemblyReference.cache

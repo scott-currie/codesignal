@@ -1,6 +1,0 @@
-C:\Users\scurrie\github\codefights\c#\01.add\add\bin\Debug\add.exe.config
-C:\Users\scurrie\github\codefights\c#\01.add\add\bin\Debug\add.exe
-C:\Users\scurrie\github\codefights\c#\01.add\add\bin\Debug\add.pdb
-C:\Users\scurrie\github\codefights\c#\01.add\add\obj\Debug\add.csprojResolveAssemblyReference.cache
-C:\Users\scurrie\github\codefights\c#\01.add\add\obj\Debug\add.exe
-C:\Users\scurrie\github\codefights\c#\01.add\add\obj\Debug\add.pdb

@@ -1,6 +1,0 @@
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\bin\Debug\stringsRearrangement.exe.config
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\bin\Debug\stringsRearrangement.exe
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\bin\Debug\stringsRearrangement.pdb
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\obj\Debug\stringsRearrangement.csprojResolveAssemblyReference.cache
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\obj\Debug\stringsRearrangement.exe
-C:\Users\scurrie\github\codefights\c_sharp\stringsRearrangement\obj\Debug\stringsRearrangement.pdb

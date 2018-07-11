@@ -1,6 +1,0 @@
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\bin\Debug\reverseParentheses.exe.config
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\bin\Debug\reverseParentheses.exe
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\bin\Debug\reverseParentheses.pdb
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\obj\Debug\reverseParentheses.csprojResolveAssemblyReference.cache
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\obj\Debug\reverseParentheses.exe
-C:\Users\scurrie\github\codefights\c_sharp\reverseParentheses\obj\Debug\reverseParentheses.pdb
