@@ -1,8 +1,12 @@
 # https://app.codesignal.com/arcade/intro/level-8/Rqvw3daffNE7sT7d5
+# This was a weird one. I initially tried a slicing approach, where
+# i would take a k-length slice at an increasing index and sum them.
+# It was pythonic, and it worked, but was too slow for the test.
+
 
 def main():
-    inputArray = [3, 2, 1, 1]
-    k = 1
+    inputArray = [1, 3, 2, 4]
+    k = 3
     arrayMaxConsecutiveSum(inputArray, k)
 
 
@@ -11,8 +15,10 @@ def arrayMaxConsecutiveSum(inputArray, k):
     m = 0
     # rolling sum
     rs = sum(inputArray[:k])
+    m = rs
     print('rs=', rs)
     for i in range(len(inputArray) - k):
+
         rs = rs - inputArray[i] + inputArray[i + k]
         m = rs if rs >= m else m
         print('rs=', rs, 'm=',m)
