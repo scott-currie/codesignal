@@ -3,3 +3,4 @@
 def differentSymbolsNaive(s):
     r = set(s)
     return len(r)
+
